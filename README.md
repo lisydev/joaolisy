@@ -19,7 +19,7 @@
   <img align="center" alt="Lisy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lisy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lisy-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Lisy-pic"src="https://discord.com/channels/@me/894675684780306452/1086711533389754398https://media.discordapp.net/attachments/894675684780306452/1086711533129711626/download20230306150102.png?width=638&height=638">
+  
 </div>
   
   ##
